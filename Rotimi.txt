@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Good Bye Rotimi
                    .     _,
                    |`\__/ /
@@ -15,8 +14,8 @@ Good Bye Rotimi
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
-=======
-HELLO <your_name>!
+
+HELLO Rotimi!
 
    /|       |\
 `__\\       //__'
@@ -42,4 +41,3 @@ HELLO <your_name>!
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
->>>>>>> peace
